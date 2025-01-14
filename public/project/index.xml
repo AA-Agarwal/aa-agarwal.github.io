@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Anish Agarwal Portfolio</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Headlights</title>
+      <link>http://localhost:1313/project/adaptiveheadlightd/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/adaptiveheadlightd/</guid>
+      <description>&lt;p&gt;main project summary here.
+fhhfhfh&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-caption&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
+               /media/HeadShot_hu1364611931850122986.webp 400w,
+               /media/HeadShot_hu3727293544885007067.webp 760w,
+               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;626&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      caption
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Colour sorting Mechanism</title>
+      <link>http://localhost:1313/project/colorsortingmechanism/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/colorsortingmechanism/</guid>
+      <description>&lt;p&gt;main project summary here.
+fhhfhfh&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-caption&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
+               /media/HeadShot_hu1364611931850122986.webp 400w,
+               /media/HeadShot_hu3727293544885007067.webp 760w,
+               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;626&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      caption
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact damping</title>
+      <link>http://localhost:1313/project/contactdamping/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/contactdamping/</guid>
+      <description>&lt;p&gt;main project summary here.
+fhhfhfh&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-caption&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
+               /media/HeadShot_hu1364611931850122986.webp 400w,
+               /media/HeadShot_hu3727293544885007067.webp 760w,
+               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;626&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      caption
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modular Smart Parking System</title>
+      <link>http://localhost:1313/project/parkingsystem/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/parkingsystem/</guid>
+      <description>&lt;p&gt;main project summary here.
+fhhfhfh&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-caption&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
+               /media/HeadShot_hu1364611931850122986.webp 400w,
+               /media/HeadShot_hu3727293544885007067.webp 760w,
+               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;626&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      caption
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radial Jetting</title>
+      <link>http://localhost:1313/project/radialjetting/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/radialjetting/</guid>
+      <description>&lt;p&gt;main project summary here.
+fhhfhfh&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-caption&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
+               /media/HeadShot_hu1364611931850122986.webp 400w,
+               /media/HeadShot_hu3727293544885007067.webp 760w,
+               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;626&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      caption
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Universal Robotic End Effector</title>
+      <link>http://localhost:1313/project/endeffector/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/endeffector/</guid>
+      <description>&lt;p&gt;main project summary here.
+fhhfhfh&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-caption&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
+               /media/HeadShot_hu1364611931850122986.webp 400w,
+               /media/HeadShot_hu3727293544885007067.webp 760w,
+               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;626&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      caption
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electric 2 Wheeler</title>
+      <link>http://localhost:1313/project/etwdc/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/etwdc/</guid>
+      <description>&lt;p&gt;main project summary here.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-caption&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
+               /media/HeadShot_hu1364611931850122986.webp 400w,
+               /media/HeadShot_hu3727293544885007067.webp 760w,
+               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;626&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      caption
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Underwater Rov</title>
+      <link>http://localhost:1313/project/rov/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/rov/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Engineered and implemented sophisticated PID control systems for dual robotic manipulators (4-DOF and 6-DOF) on an underwater Remotely Operated Vehicle (ROV), achieving precise manipulation capabilities at depths up to 100 meters. This project was funded by Aker Solution Pvt Ltd and was completed and approved as a capstone project requirements for MIT World peace university. The system successfully demonstrated stability in various underwater conditions while maintaining positioning accuracy within ±2mm.&lt;/p&gt;
+&lt;h2 id=&#34;technical-implementation&#34;&gt;Technical Implementation:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a comprehensive mathematical model using MATLAB/Simulink to simulate arm dynamics and optimize control parameters&lt;/li&gt;
+&lt;li&gt;Designed adaptive PID controllers with anti-windup mechanisms to compensate for underwater disturbances and varying payloads&lt;/li&gt;
+&lt;li&gt;Integrated custom-designed digital filters (Butterworth low-pass and high-pass) to process sensor data, reducing noise by 85% and improving motion stability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-components&#34;&gt;Key Components&lt;/h2&gt;
+&lt;h3 id=&#34;manipulator-arms&#34;&gt;Manipulator Arms&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Electric and hydraulic manipulator systems with up to 6 degrees of freedom&lt;/li&gt;
+&lt;li&gt;Advanced haptic feedback systems for operator control&lt;/li&gt;
+&lt;li&gt;Specialized end-effectors for tasks like valve maintenance and sample collection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sensor-integration&#34;&gt;Sensor Integration&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Depth sensors for precise positioning&lt;/li&gt;
+&lt;li&gt;Vision systems for object recognition and manipulation&lt;/li&gt;
+&lt;li&gt;Force/torque sensors for delicate operations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pid-control-strategy&#34;&gt;PID Control Strategy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Individual joint control using PID for basic position/velocity regulation&lt;/li&gt;
+&lt;li&gt;Gain scheduling to handle nonlinear underwater dynamics&lt;/li&gt;
+&lt;li&gt;Integration of anti-windup mechanisms for improved stability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;advanced-features&#34;&gt;Advanced Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Neural network compensation for disturbance rejection&lt;/li&gt;
+&lt;li&gt;Adaptive control laws for varying payload conditions&lt;/li&gt;
+&lt;li&gt;Real-time parameter tuning based on operating conditions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;applications&#34;&gt;Applications&lt;/h2&gt;
+&lt;h3 id=&#34;industrial-tasks&#34;&gt;Industrial Tasks&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Subsea infrastructure maintenance&lt;/li&gt;
+&lt;li&gt;Pipeline inspection and repair&lt;/li&gt;
+&lt;li&gt;Scientific sample collection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research-operations&#34;&gt;Research Operations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deep-sea exploration&lt;/li&gt;
+&lt;li&gt;Marine biological sampling&lt;/li&gt;
+&lt;li&gt;Archaeological artifact recovery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The integration of these control systems enables ROVs to perform complex underwater tasks with high precision while compensating for environmental disturbances and varying operating conditions.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-prototype-of-rov&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of ROV prototype&#34; srcset=&#34;
+               /media/Rov_hu4716862934583678635.webp 400w,
+               /media/Rov_hu12705593235349883307.webp 760w,
+               /media/Rov_hu17820792920093927571.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/Rov_hu4716862934583678635.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;571&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;Prototype of Rov&lt;/strong&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-rov-testing-pool-and-environment&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of ROV test pool&#34; srcset=&#34;
+               /media/testEnv_hu12794455535867846302.webp 400w,
+               /media/testEnv_hu16877861837928950709.webp 760w,
+               /media/testEnv_hu14540028702994636540.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/testEnv_hu12794455535867846302.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;strong&gt;ROV testing pool and environment&lt;/strong&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://localhost:1313/media/arms.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;strong&gt;4 DOF arm simulation and testing&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- Add Report, control Images --&gt;
+&lt;p&gt;&lt;strong&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
