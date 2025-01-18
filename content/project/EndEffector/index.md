@@ -2,7 +2,7 @@
 title: Universal Robotic End Effector
 summary: Knematics of Robotic manuplitor end effector
 
-date: 2024-10-25
+date: 2022-10-25
 type: docs
 math: false
 # Display this page in the Featured widget?

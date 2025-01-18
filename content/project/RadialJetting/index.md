@@ -1,12 +1,12 @@
 ---
 title: Radial Jetting
-summary: Project summary to be displayed on main project page
+summary: 
 
-date: 2024-10-25
+date: 2019-10-25
 type: docs
 math: false
 # Display this page in the Featured widget?
-featured: true
+featured: false
 # tags:
 #   - JavaScript
 image:
@@ -14,8 +14,7 @@ image:
 ---
 
 main project summary here.
-fhhfhfh
 
-![Image of me](HeadShot.png "caption")
+
 
 ## Did you find this page helpful? Consider sharing it 🙌

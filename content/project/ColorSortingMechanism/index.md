@@ -1,10 +1,11 @@
 ---
 title: Colour sorting Mechanism
-summary: Project summary to be displayed on main project page
+summary: 
 
-date: 2024-10-25
+date: 2019-06-25
 type: docs
 math: false
+
 # Display this page in the Featured widget?
 featured: false
 # tags:
@@ -13,9 +14,6 @@ image:
   caption: 'Prototye of colour sorting mechanism'
 ---
 
-main project summary here.
-fhhfhfh
 
-![Image of me](HeadShot.png "caption")
 
 ## Did you find this page helpful? Consider sharing it 🙌

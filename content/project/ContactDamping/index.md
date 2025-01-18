@@ -1,8 +1,8 @@
 ---
-title: Contact damping
+title: Interface Contact Damping Modelling and Analysis
 summary: Comprehensive analysis of contact damping and surface roughness on rotor dynamics, focusing on interference fits between components. The research involved designing and testing a custom Internal Friction Instability Test Rig (IFITR) to validate theoretical models and improve understanding of rotordynamic stability
 
-date: 2024-08-25
+date: 2024-10-15
 type: docs
 math: false
 # Display this page in the Featured widget?

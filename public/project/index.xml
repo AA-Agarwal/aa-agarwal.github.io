@@ -5,7 +5,7 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
@@ -13,254 +13,9 @@
     </image>
     
     <item>
-      <title>Adaptive Headlights</title>
-      <link>http://localhost:1313/project/adaptiveheadlightd/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/adaptiveheadlightd/</guid>
-      <description>&lt;p&gt;main project summary here.
-fhhfhfh&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-caption&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
-               /media/HeadShot_hu1364611931850122986.webp 400w,
-               /media/HeadShot_hu3727293544885007067.webp 760w,
-               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
-               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;626&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      caption
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Colour sorting Mechanism</title>
-      <link>http://localhost:1313/project/colorsortingmechanism/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/colorsortingmechanism/</guid>
-      <description>&lt;p&gt;main project summary here.
-fhhfhfh&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-caption&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
-               /media/HeadShot_hu1364611931850122986.webp 400w,
-               /media/HeadShot_hu3727293544885007067.webp 760w,
-               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
-               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;626&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      caption
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Modular Smart Parking System</title>
-      <link>http://localhost:1313/project/parkingsystem/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/parkingsystem/</guid>
-      <description>&lt;p&gt;main project summary here.
-fhhfhfh&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-caption&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
-               /media/HeadShot_hu1364611931850122986.webp 400w,
-               /media/HeadShot_hu3727293544885007067.webp 760w,
-               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
-               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;626&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      caption
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Radial Jetting</title>
-      <link>http://localhost:1313/project/radialjetting/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/radialjetting/</guid>
-      <description>&lt;p&gt;main project summary here.
-fhhfhfh&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-caption&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
-               /media/HeadShot_hu1364611931850122986.webp 400w,
-               /media/HeadShot_hu3727293544885007067.webp 760w,
-               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
-               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;626&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      caption
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Universal Robotic End Effector</title>
-      <link>http://localhost:1313/project/endeffector/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/endeffector/</guid>
-      <description>&lt;p&gt;main project summary here.
-fhhfhfh&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-caption&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
-               /media/HeadShot_hu1364611931850122986.webp 400w,
-               /media/HeadShot_hu3727293544885007067.webp 760w,
-               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
-               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;626&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      caption
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Electric 2 Wheeler</title>
-      <link>http://localhost:1313/project/etwdc/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/etwdc/</guid>
-      <description>&lt;p&gt;main project summary here.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-caption&#34;&gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
-               /media/HeadShot_hu1364611931850122986.webp 400w,
-               /media/HeadShot_hu3727293544885007067.webp 760w,
-               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
-               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;626&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      caption
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact damping</title>
+      <title>Interface Contact Damping Modelling and Analysis</title>
       <link>http://localhost:1313/project/contactdamping/</link>
-      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/contactdamping/</guid>
       <description>&lt;p&gt;An experimental investigation into the effects of contact damping and surface roughness on rotor dynamics, focusing on interference fits between components. The research involved designing and testing a custom Internal Friction Instability Test Rig (IFITR) to validate theoretical models and improve understanding of rotordynamic stability.&lt;/p&gt;
 &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
@@ -288,10 +43,10 @@ fhhfhfh&lt;/p&gt;
 &lt;figure  id=&#34;figure-mathematical-model-of-internal-damping-proposed-by-yoshimura-1977&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Mathematical model of yoshimura for beam interface damping&#34; srcset=&#34;
-               /media/MathModel_hu2018810374340273280.webp 400w,
+               /media/MathModel_hu14544553994456655890.webp 400w,
                /media/MathModel_hu3524294049921232868.webp 760w,
                /media/MathModel_hu11225165407549540493.webp 1200w&#34;
-               src=&#34;http://localhost:1313/media/MathModel_hu2018810374340273280.webp&#34;
+               src=&#34;http://localhost:1313/media/MathModel_hu14544553994456655890.webp&#34;
                width=&#34;760&#34;
                height=&#34;247&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -338,10 +93,10 @@ fhhfhfh&lt;/p&gt;
 &lt;figure  id=&#34;figure-test-rig-used-to-determine-ios-currently-located-at-tamu-vcel&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;IFTIR Test Rig&#34; srcset=&#34;
-               /media/IFTRrig_hu3874374498542748070.webp 400w,
+               /media/IFTRrig_hu8995792380686463041.webp 400w,
                /media/IFTRrig_hu5911878568340736690.webp 760w,
                /media/IFTRrig_hu12117093182663336201.webp 1200w&#34;
-               src=&#34;http://localhost:1313/media/IFTRrig_hu3874374498542748070.webp&#34;
+               src=&#34;http://localhost:1313/media/IFTRrig_hu8995792380686463041.webp&#34;
                width=&#34;760&#34;
                height=&#34;287&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -353,6 +108,101 @@ fhhfhfh&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;The research successfully validated theoretical models for internal friction instability while providing valuable insights into the effects of surface parameters on rotordynamic behavior. The experimental results showed that contact pressure and surface roughness significantly influence system stability, with higher contact pressures generally reducing damping effects&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Headlights</title>
+      <link>http://localhost:1313/project/adaptiveheadlightd/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/adaptiveheadlightd/</guid>
+      <description>&lt;p&gt;The system automatically adjusts vehicle headlights to prevent glare for approaching drivers while maintaining optimal road illumination, addressing a critical safety concern in nighttime driving.&lt;/p&gt;
+&lt;h2 id=&#34;technical-implementation&#34;&gt;Technical Implementation&lt;/h2&gt;
+&lt;h3 id=&#34;hardware-components&#34;&gt;Hardware Components&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Raspberry Pi 4 as the central processing unit&lt;/li&gt;
+&lt;li&gt;Servo motors for headlight adjustment&lt;/li&gt;
+&lt;li&gt;Camera system for light detection&lt;/li&gt;
+&lt;li&gt;Custom-designed mounting hardware and base plate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;software-features&#34;&gt;Software Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer vision algorithms using Python&lt;/li&gt;
+&lt;li&gt;OpenCV blob detection for light source tracking&lt;/li&gt;
+&lt;li&gt;Real-time servo control system&lt;/li&gt;
+&lt;li&gt;Automated headlight adjustment logic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenges-addressed&#34;&gt;Challenges Addressed&lt;/h2&gt;
+&lt;h3 id=&#34;technical-hurdles&#34;&gt;Technical Hurdles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Development of accurate object tracking algorithms for light detection&lt;/li&gt;
+&lt;li&gt;Hardware integration issues with camera systems&lt;/li&gt;
+&lt;li&gt;Servo motor angle calibration and jitter reduction&lt;/li&gt;
+&lt;li&gt;Real-time processing optimization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;design-considerations&#34;&gt;Design Considerations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating reliable detection systems for approaching vehicles&lt;/li&gt;
+&lt;li&gt;Maintaining optimal road illumination while reducing glare&lt;/li&gt;
+&lt;li&gt;Ensuring smooth and precise headlight movements&lt;/li&gt;
+&lt;li&gt;System reliability in various weather conditions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;results-and-achievements&#34;&gt;Results and Achievements&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;System Capabilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Real-time detection of approaching vehicles with 98% accuracy&lt;/li&gt;
+&lt;li&gt;Automated headlight adjustment with 0.1 deg precision&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-impact&#34;&gt;Project Impact&lt;/h3&gt;
+&lt;p&gt;This system represents a significant advancement in automotive safety technology, offering a practical solution to nighttime driving hazards while demonstrating innovative use of computer vision and mechanical control systems.&lt;/p&gt;
+&lt;h2 id=&#34;future-development&#34;&gt;Future Development&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Integration with existing vehicle systems&lt;/li&gt;
+&lt;li&gt;Enhanced detection algorithms for various light conditions&lt;/li&gt;
+&lt;li&gt;Expanded functionality for different vehicle types&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Universal Robotic End Effector</title>
+      <link>http://localhost:1313/project/endeffector/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/endeffector/</guid>
+      <description>&lt;p&gt;main project summary here.
+fhhfhfh&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-caption&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of me&#34; srcset=&#34;
+               /media/HeadShot_hu1364611931850122986.webp 400w,
+               /media/HeadShot_hu3727293544885007067.webp 760w,
+               /media/HeadShot_hu3594015705950113282.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/HeadShot_hu1364611931850122986.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;626&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      caption
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
     </item>
     
@@ -492,6 +342,105 @@ fhhfhfh&lt;/p&gt;
 &lt;strong&gt;4 DOF arm simulation and testing&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- Add Report, control Images --&gt;
 &lt;p&gt;&lt;strong&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radial Jetting</title>
+      <link>http://localhost:1313/project/radialjetting/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/radialjetting/</guid>
+      <description>&lt;p&gt;main project summary here.&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electric Two Wheeler</title>
+      <link>http://localhost:1313/project/etwdc/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/etwdc/</guid>
+      <description>&lt;p&gt;With a team of 10 students, they designed, manufactured and tested road legal and safe electric two-wheeler. Although designed for SAE’s ETWDC 2019, this prototype had larger implications. Powered by a 2 HP BLDC motor, 1.7KWh custom battery pack and smart driving features this prototype secured the 2nd overall place amongst 75+ teams in India. Later we extended our vision to making one service 4-wheeler.&lt;/p&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Zeus was developed following three core principles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maximum efficiency in power delivery and battery usage&lt;/li&gt;
+&lt;li&gt;Ergonomic design for rider comfort&lt;/li&gt;
+&lt;li&gt;Dynamic performance capabilities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;technical-specifications&#34;&gt;Technical Specifications&lt;/h2&gt;
+&lt;h3 id=&#34;electrical-specifications&#34;&gt;Electrical specifications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;48V,1.7Kwh Lithium-Ion Battery System&lt;/li&gt;
+&lt;li&gt;2HP BLDC Motor&lt;/li&gt;
+&lt;li&gt;Impressive 16 Nm torque output&lt;/li&gt;
+&lt;li&gt;5-hour charging time&lt;/li&gt;
+&lt;li&gt;90 km range per charge&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;mechanical-specifications&#34;&gt;Mechanical Specifications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dimensions: 1650x350mm&lt;/li&gt;
+&lt;li&gt;Max speed 40 mph&lt;/li&gt;
+&lt;li&gt;Double inverted telescopic suspensions&lt;/li&gt;
+&lt;li&gt;165mm ground clearance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;smart-features&#34;&gt;Smart Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lane Keep and Departure Assist&lt;/li&gt;
+&lt;li&gt;Proximity sensors for parking assistance&lt;/li&gt;
+&lt;li&gt;Auto-off indicators&lt;/li&gt;
+&lt;li&gt;Cruise control system&lt;/li&gt;
+&lt;li&gt;Reverse transmission functionality&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenges-addressed&#34;&gt;Challenges Addressed&lt;/h2&gt;
+&lt;h3 id=&#34;safety-integration&#34;&gt;Safety Integration&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Implementation of advanced sensor systems for rider assistance&lt;/li&gt;
+&lt;li&gt;Development of reliable alert mechanisms&lt;/li&gt;
+&lt;li&gt;Thermal, overvoltage, and over draw protection circuit for battery pack.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;performance-optimization&#34;&gt;Performance Optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Balancing power output with battery efficiency&lt;/li&gt;
+&lt;li&gt;Achieving optimal torque delivery&lt;/li&gt;
+&lt;li&gt;Maintaining performance while incorporating emergency features&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;results-and-achievements&#34;&gt;Results and Achievements&lt;/h2&gt;
+&lt;h3 id=&#34;innovation-highlights&#34;&gt;Innovation Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;First-in-class cruise control system in a 2-wheeler&lt;/li&gt;
+&lt;li&gt;Comprehensive safety feature suite&lt;/li&gt;
+&lt;li&gt;Smart indicator system for enhanced convenience&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;saes-electric-two-wheeler-design-challenge--2019&#34;&gt;SAE&amp;rsquo;s Electric Two Wheeler Design Challenge- 2019&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Secured 2nd overall performance in SAE organised ETWDC 2019&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;project-impact&#34;&gt;Project Impact&lt;/h3&gt;
+&lt;p&gt;The Zeus electric two-wheeler project demonstrates the successful integration of advanced technology with practical transportation needs. The combination of smart features, safety systems, and performance capabilities positions Zeus as a pioneering solution in sustainable urban mobility.&lt;/p&gt;
+&lt;p&gt;Here is a video documentting our journey.
+
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZXHCrFOMbbM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Colour sorting Mechanism</title>
+      <link>http://localhost:1313/project/colorsortingmechanism/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/colorsortingmechanism/</guid>
+      <description>&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modular Smart Parking System</title>
+      <link>http://localhost:1313/project/parkingsystem/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/parkingsystem/</guid>
+      <description>&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
     </item>
     

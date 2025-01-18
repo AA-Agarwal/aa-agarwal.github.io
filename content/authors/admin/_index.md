@@ -55,7 +55,7 @@ education:
     date_start: 2025-01-13
     # date_end: 
     summary: |
-      Working on Rotor Dunamics, FEM, CFD and working on my thesis with Dr. Alan Palazzolo.
+      Working on Rotor Dynamics, FEM, CFD and working on my thesis with Dr. Alan Palazzolo.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -89,12 +89,12 @@ work:
     date_start: 2023-01-01
     date_end: ''
     summary: |2-
-      Interface Damping and Rotordynamic Analysis :
+      **Interface Damping and Rotordynamic Analysis :**
       - Spearheaded complex FEM modelling and analysis to calculate interface stiffness and damping coefficients with 99.8% accuracy.
       - Led designing and conducted experimental validation of contact interface damping in rotordynamics and static stressed joints.
       - Enhanced API 617 harmonic calculations by 10% through advanced modelling techniques and utilizing experimental results.
     
-      Radial Jetting for Horizontal Drilling | RADJET :
+      **Radial Jetting for Horizontal Drilling | RADJET :**
       - Developed high-pressure (7.5KPsi) miniature rotary union; executed multiphysics simulations, CFD analysis and experimental tests to validate seal integrity and minimize power loss by 13%.
 
       - Pioneered trimming of hydraulic nozzle size by 33% while increasing efficiency by 20% by using ANSYS CFD simulation.

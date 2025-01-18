@@ -1,8 +1,8 @@
 ---
 title: Modular Smart Parking System
-summary: Project summary to be displayed on main project page
+summary: 
 
-date: 2024-10-25
+date: 2019-03-25
 type: docs
 math: false
 # Display this page in the Featured widget?
@@ -13,9 +13,6 @@ image:
   caption: 'An illustrative image of an underwater ROV in Operation by AKER solutions'
 ---
 
-main project summary here.
-fhhfhfh
 
-![Image of me](HeadShot.png "caption")
 
 ## Did you find this page helpful? Consider sharing it 🙌
